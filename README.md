@@ -1,7 +1,7 @@
 bamazonCustomer app
 
 1. Initially when the app is ran, it will display the list of items in the inventory
-    
+    (https://github.com/andrewduong94/bamazon/blob/master/assets/images/A1.png)
 2. Then, it prompts the user which item do they want to purchase and how many. 
 
 3. If the user fails to answer all of question, the app will log `Missing input...Please try again`.
